@@ -32,7 +32,8 @@ Features include a dynamic year-range slicer and conditional formatting.
 
 An interactive geographic analysis of **199 profiles associated with countries outside Poland**, including a filled country map and a ranked comparison.
 
-![International Geography](03-international-geography.png)
+![Poland Regional Intelligence](04-poland-regional-intelligence.png)
+
 
 ### 4. Poland Regional Intelligence
 
@@ -42,7 +43,7 @@ The dashboard includes regional mapping, demographic filters, average age at dis
 
 Of the 637 profiles associated with Poland, 634 could be assigned to a voivodeship.
 
-![Poland Regional Intelligence](04-poland-regional-intelligence.png)
+![International Geography](03-international-geography.png)
 
 ### 5. Behind the Data
 
